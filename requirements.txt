@@ -1,0 +1,9 @@
+Flask
+werkzeug
+unstructured[all-docs]
+transformers
+datasets
+pandas
+bitsandbytes
+torch
+lxml
